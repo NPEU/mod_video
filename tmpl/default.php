@@ -3,7 +3,7 @@
  * @package     Joomla.Site
  * @subpackage  mod_video
  *
- * @copyright   Copyright (C) NPEU 2019.
+ * @copyright   Copyright (C) NPEU 2024.
  * @license     MIT License; see LICENSE.md
  */
 
