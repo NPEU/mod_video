@@ -22,7 +22,7 @@
     <namespace path="src">NPEU\Module\Video</namespace>
 
     <files>
-        <filename module="mod_video">services</filename>
+        <folder module="mod_video">services</folder>
         <folder>language</folder>
         <folder>src</folder>
         <folder>tmpl</folder>
